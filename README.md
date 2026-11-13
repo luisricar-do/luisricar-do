@@ -1,4 +1,4 @@
-<a href="https://luisr.com.br"><img src="banner.png" alt="Luis Ricardo Santos. Construo software e ajudo empresas a usar IA no lugar certo." width="100%"></a>
+<a href="https://luisr.com.br"><img src="banner.png" alt="Luis Ricardo Santos. Do código ao processo, eu faço rodar." width="100%"></a>
 
 Entrei em tecnologia sem querer. Me matriculei no técnico achando que era Eletrônica e descobri no primeiro dia que a vaga era de Informática. Fiquei.
 
